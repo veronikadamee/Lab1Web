@@ -1,6 +1,6 @@
 # Lab1Web
 ###### Nama : Veronika Rustiani Dame Sihombing
-###### NIM : 312010295
+###### NIM : 312010325
 ###### Kelas : TI.A.2
 
 ## TugasPertamaWebProgramming
